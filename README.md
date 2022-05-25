@@ -43,4 +43,4 @@ php -S localhost:80
 
 
 ## Acessar aplicação
-[link](localhost:80)
+[link](http://localhost)
