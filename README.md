@@ -1,4 +1,4 @@
-# Simples projeto de teste com PHP
+# Simples exemplo de PHP
 
 ## Preparar ambiente
 * Instalar PHP 7.4 e Composer
