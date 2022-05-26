@@ -27,7 +27,7 @@ composer require nome/pacote
 
 
 ## Adicionar o autoload do composer no seu código, exemplo
-```bash
+```php
 <?php
 require_once __DIR__ . '/vendor/autoload.php';
 
