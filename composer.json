@@ -3,7 +3,7 @@
     "description": "projeto de teste",
     "autoload": {
         "psr-4": {
-            "Projeto\\Teste\\": "src/App"
+            "App\\": "src/App"
         }
     },
     "authors": [
