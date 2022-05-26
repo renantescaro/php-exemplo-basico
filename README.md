@@ -19,10 +19,12 @@ composer init
 ## Lista de pacotes: 
 https://packagist.org/
 
+
 ## Instalar pacote no projeto
 ```bash
 composer require nome/pacote
 ```
+
 
 ## Adicionar o autoload do composer no seu código, exemplo
 ```bash
@@ -42,5 +44,5 @@ php -S localhost:80
 ```
 
 
-## Acessar aplicação
+## Acessar exemplos
 [link](http://localhost)
